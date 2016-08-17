@@ -41,7 +41,7 @@ home.php
   <h1><?=$data?></h1>
 
 </div>
-<?php step::endsection() ?>
+<?php step::endSection() ?>
 ```
 
 ##Include
@@ -55,4 +55,4 @@ home.php
   <h1><?=$data?></h1>
   
 </div>
-<?php step::endsection() ?>
+<?php step::endSection() ?>
